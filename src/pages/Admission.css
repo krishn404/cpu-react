@@ -1,0 +1,74 @@
+/* Admission.css */
+
+.container {
+  width: 80%;
+  padding: 20px;
+  text-align: center;
+  margin-left: 10%;
+}
+
+.admission-banner {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.content {
+  margin-bottom: 20px;
+  
+}
+/* Admission.css */
+
+.admission-info {
+  margin-bottom: 40px;
+  background-color: #0951D8; /* Background color for admission-info */
+  padding: 20px; /* Add padding for spacing */
+  border-radius: 80px;
+  height: 40px;
+  display: flex;
+  align-items: center; /* Align items vertically */
+}
+
+.admission-info p {
+  font-size: 1rem;
+  margin-bottom: 10px;
+  margin-right: 20px; /* Adjust margin as needed */
+  color: #fff;
+  font-size: 20px;
+}
+
+.btn {
+  display: flex;
+  align-items: center; /* Align items vertically */
+}
+
+.btn button {
+  padding: 10px 20px;
+  background-color: #000000; /* Button background color */
+  color: #ff0000; /* Button text color */
+  border: none;
+  border-radius: 30px;
+  margin-left: 20px; /* Adjust margin as needed */
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.btn button:hover {
+  background-color: #303030; /* Button background color on hover */
+}
+  /* Admission.css */
+
+.apply-button {
+  padding: 10px 20px;
+  background-color: black; /* Change background color to black */
+  color: #fff;
+  border: none;
+  border-radius: 30px;
+  margin-left: 20px;
+  font-size: 1rem;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.apply-button:hover {
+  background-color: #333;
+}
